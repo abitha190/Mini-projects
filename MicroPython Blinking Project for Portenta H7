@@ -1,0 +1,19 @@
+This mini project demonstrates how to implement a simple blinking LED program on the Portenta H7 using MicroPython.
+Features:
+
+Blinking LED using MicroPython on Portenta H7.
+Provides a basic example for getting started with MicroPython on the Portenta H7.
+Requirements:
+
+Portenta H7 board.
+Micro USB cable for programming.
+MicroPython firmware for Portenta H7.
+Setup:
+
+Connect the Portenta H7 to your computer using the Micro USB cable.
+Flash the MicroPython firmware onto the Portenta H7.
+Upload the MicroPython blinking script to the board.
+Usage:
+
+Follow the setup instructions.
+Run the MicroPython script to see the LED blinking on the Portenta H7.
